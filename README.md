@@ -47,6 +47,8 @@ python, pandas, numpy, nltk, pymorphy2, sklearn, gensim, torch, transformers
 
 Код проекта: [get_rte_features.ipynb](https://github.com/petrochenkovp/leaders2023_prep/blob/main/get_rte_features.ipynb)
 
-Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
+<br><br>
+
+Посмотреть [другие проекты](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
