@@ -50,6 +50,6 @@ python, pandas, numpy, nltk, pymorphy2, sklearn, gensim, torch, transformers
 
 <br><br>
 
-Посмотреть [другие проекты](https://github.com/petrochenkovp/portfolio)
+Посмотреть все проекты в [портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
